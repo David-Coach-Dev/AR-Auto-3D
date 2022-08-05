@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="" width="50" height="50"/>
    - blender</a>
   <br><br>
-  <a href="https://modelviewer.dev/" target="_blank" rel="modelviewer">
+  <a href="https://modelviewer.dev" target="_blank" rel="modelviewer">
   <img src="https://modelviewer.dev/assets/ic_modelviewer.svg" alt="modelviewer" width="50" height="50"/>
    - modelviewer</a>
 </p>
